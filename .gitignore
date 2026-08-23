@@ -1,0 +1,9 @@
+# Terraform (managed by Cushy)
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfvars
+override.tf
+.terraformrc
+terraform.rc
